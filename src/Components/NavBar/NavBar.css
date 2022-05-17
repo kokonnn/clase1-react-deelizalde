@@ -1,0 +1,15 @@
+nav{
+    background-color: bisque;
+    display: flex;
+    
+}
+h1{
+    margin-left: 20px;
+}
+div{
+    margin: auto;
+}
+
+button{
+    margin: 10px;
+}
